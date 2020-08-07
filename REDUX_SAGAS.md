@@ -7,7 +7,7 @@
 A simple implementation example could be:
 
 ```javascript
-import { select } from 'redux-saga'
+import { select } from 'redux-saga/effects'
 
 /*
  * Selector. The query depends by the state shape.
